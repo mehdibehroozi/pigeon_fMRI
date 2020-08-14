@@ -1,0 +1,1 @@
+To run fit function, you should first run run_fit.m file
